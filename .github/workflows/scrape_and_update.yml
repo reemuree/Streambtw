@@ -27,10 +27,10 @@ jobs:
         pip install requests beautifulsoup4
 
     - name: Run First Python script
-      run: python scrape_and_update.py >> updated_file.m3u8
+      run: python scrape_and_update.py >> streambtw_channels.m3u8
 
     - name: Run Second Python script
-      run: python mr_scrape.py >> updated_file.m3u8
+      run: python mr_scrape.py >> mrgamingstreams_channels.m3u8
 
     - name: Commit and push changes
       run: |
