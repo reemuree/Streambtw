@@ -37,6 +37,5 @@ jobs:
           git commit -am "Update m3u8 file"
           git pull --rebase origin main
           git push
-    - name: Show Git status
-      run: git status
+
 
