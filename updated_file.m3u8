@@ -1,40 +1,80 @@
-#EXTINF:-1 , Boxing - Christian Araneta vs Arvin Magramo
-https://hls.streambtw.com/live/stream_box2.m3u8
-#EXTINF:-1 , Boxing - Erik Bazinyan vs Billi Facundo Godoy
+#EXTINF:-1 , WWE Royal Rumble
+https://hls.streambtw.com/live/stream_.m3u8
+#EXTINF:-1 , Crocker vs Felix
 https://hls.streambtw.com/live/stream_box1.m3u8
+#EXTINF:-1 , Munguia vs Ryder
+https://hls.streambtw.com/live/stream_box2.m3u8
+#EXTINF:-1 , Trinidad vs Perez
+https://hls.streambtw.com/live/stream_box3.m3u8
 #EXTINF:-1 , CRICKET(24x7)
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 , Tennis(24x7)
 https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 , Sheffield Wednesday vs Coventry City
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 , Chelsea vs Aston Villa
-https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 , Bristol City vs Nottingham Forest
+#EXTINF:-1 , Men's Doubles Final
 https://hls.streambtw.com/live/stream_3.m3u8
-#EXTINF:-1 , Tottenham Hotspur vs Manchester City
-https://hls.streambtw.com/live/stream_4.m3u8
-#EXTINF:-1 , Almer�a vs Deportivo Alav�s
-https://hls.streambtw.com/live/stream_6.m3u8
-#EXTINF:-1 , Cagliari vs Torino
-https://hls.streambtw.com/live/stream_7.m3u8
-#EXTINF:-1 , Olympique Lyonnais vs Rennes
-https://hls.streambtw.com/live/stream_8.m3u8
-#EXTINF:-1 , Eintracht Frankfurt vs Mainz 05
-https://hls.streambtw.com/live/stream_9.m3u8
-#EXTINF:-1 , Atlanta Hawks vs Dallas Mavericks
+#EXTINF:-1 , Ipswich Town vs Maidstone United
 https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 , Charlotte Hornets vs Houston Rockets
+#EXTINF:-1 , Leeds United vs Plymouth Argyle
 https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 , Indiana Pacers vs Phoenix Suns
+#EXTINF:-1 , Sheffield United vs Brighton & Hove Albion
 https://hls.streambtw.com/live/stream_3.m3u8
-#EXTINF:-1 , Toronto Raptors vs Los Angeles Clippers
+#EXTINF:-1 , Everton vs Luton Town
 https://hls.streambtw.com/live/stream_4.m3u8
-#EXTINF:-1 , Memphis Grizzlies vs Orlando Magic
+#EXTINF:-1 , Leicester City vs Birmingham City
 https://hls.streambtw.com/live/stream_5.m3u8
-#EXTINF:-1 , Milwaukee Bucks vs Cleveland Cavaliers
-https://hls.streambtw.com/live/stream_6.m3u8
-#EXTINF:-1 , New Orleans Pelicans vs Oklahoma City Thunder
-https://hls.streambtw.com/live/stream_7.m3u8
-#EXTINF:-1 , San Antonio Spurs vs Portland Trail Blazers
+#EXTINF:-1 , Fulham vs Newcastle United
 https://hls.streambtw.com/live/stream_1.m3u8
+#EXTINF:-1 , Real Sociedad vs Rayo Vallecano
+https://hls.streambtw.com/live/stream_6.m3u8
+#EXTINF:-1 , Las Palmas vs Real Madrid
+https://hls.streambtw.com/live/stream_6.m3u8
+#EXTINF:-1 , Barcelona vs Villarreal
+https://hls.streambtw.com/live/stream_6.m3u8
+#EXTINF:-1 , Mallorca vs Real Betis
+https://hls.streambtw.com/live/stream_6.m3u8
+#EXTINF:-1 , Atalanta vs Udinese
+https://hls.streambtw.com/live/stream_7.m3u8
+#EXTINF:-1 , Juventus vs Empoli
+https://hls.streambtw.com/live/stream_7.m3u8
+#EXTINF:-1 , Milan vs Bologna
+https://hls.streambtw.com/live/stream_7.m3u8
+#EXTINF:-1 , Nice vs Metz
+https://hls.streambtw.com/live/stream_8.m3u8
+#EXTINF:-1 , Olympique Marseille vs Monaco
+https://hls.streambtw.com/live/stream_8.m3u8
+#EXTINF:-1 , Wolfsburg vs Koln
+https://hls.streambtw.com/live/stream_9.m3u8
+#EXTINF:-1 , Hoffenheim vs Heidenheim
+https://hls.streambtw.com/live/stream_10.m3u8
+#EXTINF:-1 , Werder Bremen vs Freiburg
+https://hls.streambtw.com/live/stream_11.m3u8
+#EXTINF:-1 , Augsburg vs Bayern Munchen
+https://hls.streambtw.com/live/stream_12.m3u8
+#EXTINF:-1 , Stuttgart vs RB Leipzig
+https://hls.streambtw.com/live/stream_13.m3u8
+#EXTINF:-1 , Bayer Leverkusen vs Borussia M'gladbach
+https://hls.streambtw.com/live/stream_9.m3u8
+#EXTINF:-1 , Angola vs Namibia
+https://hls.streambtw.com/live/stream_10.m3u8
+#EXTINF:-1 , Nigeria vs Cameroon
+https://hls.streambtw.com/live/stream_10.m3u8
+#EXTINF:-1 , Detroit Pistons vs Washington Wizards
+https://hls.streambtw.com/live/stream_1.m3u8
+#EXTINF:-1 , New York Knicks vs Miami Heat
+https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1 , Denver Nuggets vs Philadelphia 76ers
+https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1 , Brooklyn Nets vs Houston Rockets
+https://hls.streambtw.com/live/stream_3.m3u8
+#EXTINF:-1 , Boston Celtics vs Los Angeles Clippers
+https://hls.streambtw.com/live/stream_4.m3u8
+#EXTINF:-1 , Charlotte Hornets vs Utah Jazz
+https://hls.streambtw.com/live/stream_5.m3u8
+#EXTINF:-1 , Milwaukee Bucks vs New Orleans Pelicans
+https://hls.streambtw.com/live/stream_6.m3u8
+#EXTINF:-1 , San Antonio Spurs vs Minnesota Timberwolves
+https://hls.streambtw.com/live/stream_7.m3u8
+#EXTINF:-1 , Golden State Warriors vs Los Angeles Lakers
+https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1 , Dallas Mavericks vs Sacramento Kings
+https://hls.streambtw.com/live/stream_8.m3u8
