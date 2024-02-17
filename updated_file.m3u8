@@ -1,21 +1,25 @@
-#EXTINF:-1 , CRICKET 24/7
+#EXTINF:-1 , India vs England
 https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 , Feyenoord vs Roma
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 , Young Boys vs Sporting CP
-https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 , Shakhtar Donetsk vs Olympique Marseille
-https://hls.streambtw.com/live/stream_3.m3u8
-#EXTINF:-1 , Milan vs Rennes
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 , Benfica vs Toulouse
-https://hls.streambtw.com/live/stream_3.m3u8
-#EXTINF:-1 , Ajax vs Bodo Glimt
-https://hls.streambtw.com/live/stream_4.m3u8
-#EXTINF:-1 , Lens vs Freiburg
-https://hls.streambtw.com/live/stream_5.m3u8
-#EXTINF:-1 , Real Betis vs Dinamo Zagreb
+#EXTINF:-1 , Foster vs Nova
+https://hls.streambtw.com/live/stream_box1.m3u8
+#EXTINF:-1 , Picazo vs Cardenas
+https://hls.streambtw.com/live/stream_box2.m3u8
+#EXTINF:-1 , Mayhem in Myrtle 8
+https://hls.streambtw.com/live/stream_box3.m3u8
+#EXTINF:-1 , Curiel vs Nontshinga 2
+https://hls.streambtw.com/live/stream_box4.m3u8
+#EXTINF:-1 , Villarreal vs Getafe
 https://hls.streambtw.com/live/stream_6.m3u8
+#EXTINF:-1 , Torino vs Lecce
+https://hls.streambtw.com/live/stream_7.m3u8
+#EXTINF:-1 , Internazionale vs Salernitana
+https://hls.streambtw.com/live/stream_7.m3u8
+#EXTINF:-1 , Olympique Lyonnais vs Nice
+https://hls.streambtw.com/live/stream_8.m3u8
+#EXTINF:-1 , Koln vs Werder Bremen
+https://hls.streambtw.com/live/stream_9.m3u8
+#EXTINF:-1 , Famalicao vs Rio Ave
+https://hls.streambtw.com/live/stream_10.m3u8
 #EXTINF:-1 , Memphis Grizzlies vs Milwaukee Bucks
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 , Utah Jazz vs Golden State Warriors
